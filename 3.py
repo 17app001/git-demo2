@@ -1,3 +1,5 @@
+import random
+
 print('123')
 
-print(3+5)
+print(random.randint(1,10))
