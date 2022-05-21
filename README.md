@@ -1,9 +1,11 @@
 # git-demo
+- 測試git指令
 
 > 建立時間
 - 2022/5/21
 - 作者:
-    - Jerry Chen
+    - 陳岳洋(Jerry)
+
 
 
 > git reset
@@ -25,3 +27,13 @@
 | 計算機      | $1600   |   5     |
 | 手機        |   $12   |   12   |
 | 管線        |    $1    |  234  |
+
+>github  
+https://www.mdeditor.tw/  
+
+git init  
+git add README.md  
+git commit -m "first commit"  
+git branch -M master  
+git remote add origin https://github.com/17app001/git-demo2.git  
+git push -u origin master  
